@@ -1,0 +1,210 @@
+out. 13, 2022 8:51:00 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:51:00 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:51:00 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:51:01 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 8:52:05 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:52:05 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:52:05 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:52:06 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 8:52:45 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:52:45 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:52:45 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:52:45 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 8:54:23 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:54:23 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:54:23 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:54:24 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 8:56:06 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:56:06 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:56:06 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:56:07 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 8:56:35 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:56:35 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:56:35 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:56:36 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 8:57:10 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:57:11 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:57:11 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:57:11 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 8:58:30 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:58:30 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:58:30 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:58:31 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 8:58:55 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 8:58:55 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 8:58:55 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 8:58:56 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+out. 13, 2022 9:01:51 PM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+out. 13, 2022 9:01:51 PM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+out. 13, 2022 9:01:51 PM jpaMaven.Principal main
+GRAVE: Log Severo
+out. 13, 2022 9:01:51 PM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 04, 2023 9:15:29 AM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+mai. 04, 2023 9:15:29 AM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 04, 2023 9:15:29 AM jpaMaven.Principal main
+GRAVE: Log Severo
+mai. 04, 2023 9:15:43 AM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+mai. 04, 2023 9:15:43 AM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 04, 2023 9:15:43 AM jpaMaven.Principal main
+GRAVE: Log Severo
+mai. 04, 2023 9:15:44 AM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 04, 2023 9:17:04 AM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+mai. 04, 2023 9:17:04 AM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 04, 2023 9:17:04 AM jpaMaven.Principal main
+GRAVE: Log Severo
+mai. 04, 2023 9:17:05 AM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 04, 2023 9:19:16 AM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+mai. 04, 2023 9:19:16 AM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 04, 2023 9:19:16 AM jpaMaven.Principal main
+GRAVE: Log Severo
+mai. 04, 2023 9:19:17 AM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 04, 2023 9:19:31 AM jpaMaven.Principal main
+INFORMAÇÕES: Log de informação
+mai. 04, 2023 9:19:31 AM jpaMaven.Principal main
+ADVERTÊNCIA: Log de Aviso
+mai. 04, 2023 9:19:31 AM jpaMaven.Principal main
+GRAVE: Log Severo
+mai. 04, 2023 9:19:31 AM jpaMaven.Principal main
+INFORMAÇÕES: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 11, 2023 7:41:10 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:41:10 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:41:10 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:42:56 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:42:56 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:42:56 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:43:03 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:43:03 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:43:03 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:43:42 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:43:43 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:43:43 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:44:09 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:44:09 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:44:09 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:44:11 PM jpaMaven.Principal main
+INFO: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 11, 2023 7:45:33 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:45:34 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:45:34 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:45:35 PM jpaMaven.Principal main
+INFO: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 11, 2023 7:46:36 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:46:36 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:46:36 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:46:37 PM jpaMaven.Principal main
+INFO: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 11, 2023 7:50:07 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:50:07 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:50:07 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:50:09 PM jpaMaven.Principal main
+INFO: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 11, 2023 7:50:55 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:50:55 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:50:55 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:50:56 PM jpaMaven.Principal main
+INFO: 
+A entidade manager factory exemplo_jpa01 foi criada!!
+mai. 11, 2023 7:55:52 PM jpaMaven.Principal main
+INFO: Log de informação
+mai. 11, 2023 7:55:52 PM jpaMaven.Principal main
+WARNING: Log de Aviso
+mai. 11, 2023 7:55:52 PM jpaMaven.Principal main
+SEVERE: Log Severo
+mai. 11, 2023 7:55:54 PM jpaMaven.Principal main
+INFO: 
+A entidade manager factory exemplo_jpa01 foi criada!!
